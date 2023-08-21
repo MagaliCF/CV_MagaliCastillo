@@ -419,6 +419,14 @@ section {
   margin-bottom: 0;
 }
 
+.about img{
+  width: 75%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 /*--------------------------------------------------------------
 # Facts
 --------------------------------------------------------------*/
